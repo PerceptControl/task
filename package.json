@@ -1,0 +1,17 @@
+{
+  "name": "task-1",
+  "version": "0.0.1",
+  "description": "Задание соискателя",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Dorofeichik Egor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-busboy": "^9.0.0",
+    "express-fileupload": "^1.4.0",
+    "mysql2": "^2.3.3"
+  }
+}
